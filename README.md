@@ -1,5 +1,5 @@
 # FibonacciGenerator
-A quick Fibonacci Sequence generator to be run within CMD. Developed with the BigMath library which allows integers to hava an unlimited size.
+A quick Fibonacci Sequence generator to be run within a shell. Developed with the BigMath library which allows integers to hava an unlimited size.
 
 How to install:
 - Type "cmd" in start
